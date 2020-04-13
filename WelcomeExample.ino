@@ -6,6 +6,7 @@
  DESC: This is some example for your arduino uno or else
      - LCD shield requiered !
    Download page : https://github.com/YTblockman/LCD-keypad-shield-Example.git
+   library download page : https://github.com/arduino-libraries/LiquidCrystal
 */
 #include <LiquidCrystal.h> // import a library
 int LoopA = 1;
